@@ -14,3 +14,14 @@ Use the following command to install the required dependencies for the project:
 
 ```bash
 pip install flask
+```
+### 3. Run the Server
+
+Once the dependencies are installed, you can start the Flask server with the following command:
+
+```bash
+python server.py
+```
+
+The server will start, and you can access the application in your web browser at `http://localhost:5000`
+
